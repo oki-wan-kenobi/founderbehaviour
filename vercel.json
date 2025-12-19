@@ -8,16 +8,7 @@
 \f0\fs24 \cf0 \{\
   "headers": [\
     \{\
-      "source": "/(.*\\\\.html)",\
-      "headers": [\
-        \{\
-          "key": "Content-Type",\
-          "value": "text/html; charset=utf-8"\
-        \}\
-      ]\
-    \},\
-    \{\
-      "source": "/",\
+      "source": "/(.*)",\
       "headers": [\
         \{\
           "key": "Content-Type",\
